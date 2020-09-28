@@ -1,3 +1,27 @@
+<h1 align="center">
+    <img alt="NextLevelWeek" title="#NextLevelWeek" src="./public/banner.png" />
+</h1>
+
+Ecoleta - is a way to connect companies and entities that collect organic and inorganic waste to people who need to dispose of their waste in an ecological way.
+
+Companies or entities may register on the web platform by sending:
+- an image of the collection point
+- name of the entity, email and whatsapp
+- and the address so that it can appear on the map
+- in addition to selecting one or more collection items:
+  - lamps
+  - batteries
+  - papers and cardboard
+  - electronic waste
+  - organic waste
+  - kitchen oil
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./public/web.svg" width="400px">
+
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./public/sucesso-web.svg" width="400px">
+</p>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
